@@ -1,0 +1,2 @@
+rootProject.name = 'camera_ai_app_ready'
+include ':app'

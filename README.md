@@ -1,2 +1,1 @@
-# my-camera-app
-تطبيق كاميرا متقدم بالذكاء الاصطناعي
+Camera AI App - Full GitHub-ready package (v2)
