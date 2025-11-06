@@ -1,2 +1,2 @@
-rootProject.name = 'camera_ai_app_ready'
+rootProject.name = 'CameraAIPro'
 include ':app'
